@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ecb030-bc2e-44f4-9ec2-de49ccf5bd0c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="12ecb030-bc2e-44f4-9ec2-de49ccf5bd0c" name="Changes" comment="Додано файл .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,21 @@
       <option name="presentableId" value="Default" />
       <updated>1680544467598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Додано файл .gitignore">
+      <created>1680642180254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680642180254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Додано файл .gitignore">
+      <created>1680642354152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680642354152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Додано файл .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додано файл .gitignore" />
   </component>
 </project>
