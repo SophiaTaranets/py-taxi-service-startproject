@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ecb030-bc2e-44f4-9ec2-de49ccf5bd0c" name="Changes" comment="Додано файл .gitignore" />
+    <list default="true" id="12ecb030-bc2e-44f4-9ec2-de49ccf5bd0c" name="Changes" comment="Додано файл .gitignore">
+      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taxi/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taxi/templates/includes/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taxi/templates/taxi/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taxi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxi/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/taxi/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxi_service/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/taxi_service/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxi_service/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/taxi_service/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,10 +40,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\py-taxi-service-startproject\static\css" />
+      <recent name="C:\Users\User\py-taxi-service-startproject" />
+      <recent name="C:\Users\User\py-taxi-service-startproject\taxi" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680642436112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Додано файл .gitignore">
+      <created>1680642496255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680642496255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
